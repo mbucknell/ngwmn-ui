@@ -6,7 +6,7 @@
  * tests and the application dependencies only need to be compiled a single
  * time, and `karma --watch` tasks are very fast.
  */
-
+/*
 import 'ngwmn/components/graph/index.spec.js';
 import 'ngwmn/components/graph/state/cursor.spec.js';
 import 'ngwmn/components/graph/state/layout.spec.js';
@@ -28,6 +28,7 @@ import 'ngwmn/components/water-level-table/state.spec.js';
 import 'ngwmn/components/well-log/index.spec.js';
 import 'ngwmn/components/well-log/state/construction.spec.js';
 import 'ngwmn/components/well-log/state/lithology.spec.js';
+ */
 import 'ngwmn/lib/ajax.spec';
 import 'ngwmn/lib/d3-redux.spec';
 import 'ngwmn/lib/utils.spec';
